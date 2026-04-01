@@ -44,7 +44,7 @@ Developed for **mentorineducation.id**, this system demonstrates the implementat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jQuery"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/jquery/jquery-original.svg" height="50" alt="jQuery"/>
   <img src="https://midtrans.com/assets/images/logo-midtrans-color.png" height="45" style="margin-left:10px;" alt="Midtrans"/>
 </p>
 
