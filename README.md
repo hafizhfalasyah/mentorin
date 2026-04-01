@@ -38,25 +38,25 @@ Developed for **mentorineducation.id**, this system demonstrates the implementat
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,mysql,html,css,js,bootstrap,jquery" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jQuery"/>
+  <img src="https://midtrans.com/assets/images/logo-midtrans-color.png" height="45" style="margin-left:10px;" alt="Midtrans"/>
 </p>
 
 <p align="center">
-  <b>Laravel</b> — Backend Framework &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>MySQL</b> — Database Management &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>HTML</b> — Markup Structure &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>CSS</b> — Styling & Layout &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>JavaScript</b> — Client-side Logic &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>Bootstrap</b> — UI Framework &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>jQuery</b> — DOM Manipulation
-</p>
-
-<p align="center">
-  <img src="https://midtrans.com/assets/images/logo-midtrans-color.png" height="40" alt="Midtrans"/>
-</p>
-
-<p align="center">
-  <b>Midtrans</b> — Payment Gateway Integration
+  <b>Laravel</b> &nbsp; • &nbsp;
+  <b>MySQL</b> &nbsp; • &nbsp;
+  <b>HTML</b> &nbsp; • &nbsp;
+  <b>CSS</b> &nbsp; • &nbsp;
+  <b>JavaScript</b> &nbsp; • &nbsp;
+  <b>Bootstrap</b> &nbsp; • &nbsp;
+  <b>jQuery</b> &nbsp; • &nbsp;
+  <b>Midtrans</b>
 </p>
 
 ---
